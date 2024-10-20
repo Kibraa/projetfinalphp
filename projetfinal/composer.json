@@ -1,0 +1,15 @@
+{
+    "name": "ibra/projetfinal",
+    "autoload": {
+        "psr-4": {
+            "Ibra\\Projetfinal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ibrahim Karamanlian",
+            "email": "karamanlian.ibrahim@gmail.com"
+        }
+    ],
+    "require": {}
+}
